@@ -1,2 +1,6 @@
 This is just another file
 test
+<<<<<<< HEAD
+=======
+cos
+>>>>>>> zdalny_feature
