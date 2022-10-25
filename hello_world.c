@@ -6,3 +6,7 @@ int main(void)
     printf("hello, world\n");
     return 0;
 }
+//kolejny komentarz
+//i kolejny komentarz
+//i jeszcze kolejny komentarz
+i kolejny komentarz, ale ty razem zepsuty
